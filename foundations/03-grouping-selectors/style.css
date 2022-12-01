@@ -1,0 +1,13 @@
+#N1 {
+    background: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
+}
+#N2{
+    background: #ffff00;
+}
+ #N1,#N2 {
+ font-size: 24px;
+ font-family: Helvetica,'Times New Roman';
+ text-align: right;
+
+}
